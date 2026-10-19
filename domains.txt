@@ -1,0 +1,7 @@
+
+# ASUS RT-AX82U / AmneziaWG
+# Personal bypass domain list
+# Purpose: future selective VPN routing
+# Format: one domain per line
+# This file is a starter template, not a complete blocklist.
+# Add only domains confirmed to be needed.
